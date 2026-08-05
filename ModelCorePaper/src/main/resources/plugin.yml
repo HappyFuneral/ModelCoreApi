@@ -1,0 +1,7 @@
+# my-awesome-plugin-paper/src/main/resources/plugin.yml
+main: org.justice.modelcorepaper.ModelApiCoreReloaded
+name: ModelCoreApiReloaded
+version: ${project.version} # Ez a Maven verzióját veszi át
+api-version: 1.21 # A legújabb megfelelő API verzió
+authors: [Justice]
+description: A Paper plugin using a shared API

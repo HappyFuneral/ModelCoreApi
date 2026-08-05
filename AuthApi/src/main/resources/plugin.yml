@@ -1,0 +1,5 @@
+name: AuthApi
+version: '${project.version}'
+main: org.justice.authapi.AuthApi
+api-version: '1.21'
+depend: [AuthMe,LuckPerms,PlayerPoints]

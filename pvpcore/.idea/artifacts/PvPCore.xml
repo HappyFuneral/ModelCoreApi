@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PvPCore">
+    <output-path>$PROJECT_DIR$/out/artifacts/PvPCore</output-path>
+    <root id="archive" name="PvPCore.jar">
+      <element id="module-output" name="magicbox" />
+    </root>
+  </artifact>
+</component>
